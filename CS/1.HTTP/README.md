@@ -21,7 +21,7 @@
 
     - 개행 문자, 빈칸을 없애 코드 크기를 최소화
 
-    - ![google](README.assets/google.png)![스크린샷 2022-09-29 오후 5.33.35]()
+    - ![google](README.assets/google.png)
 
       구글 메인 홈페이지 코드
 
